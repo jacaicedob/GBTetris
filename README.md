@@ -11,8 +11,8 @@ All sprites, backgrounds, and music are original art.
 
 ## Controls
 -  LEFT/RIGHT: Move the falling block sideways
--        DOWN: Move the block down faster
--           A: Clockwise rotate
--           B: Counter clockwise rotate
--      SELECT: Drop block all the way
--       START: Pause the game
+-  DOWN: Move the block down faster
+-  A: Clockwise rotate
+-  B: Counter clockwise rotate
+-  SELECT: Drop block all the way
+-  START: Pause the game
