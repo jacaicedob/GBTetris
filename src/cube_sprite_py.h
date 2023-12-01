@@ -1,0 +1,4 @@
+unsigned char cube_sprite_data[] = 
+{
+  0X7E,0X7E,0XC3,0XFF,0XA5,0XFF,0X99,0XE7,0X99,0XE7,0XA5,0XFF,0XC3,0XFF,0X7E,0X7E
+};
